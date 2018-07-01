@@ -1,0 +1,16 @@
+$remWidth: 1rem;
+@function rem($n) {
+    @return $n / 10 * $remWidth;
+  }
+
+// -----------------------------------------project vars
+
+
+
+
+
+
+
+
+
+

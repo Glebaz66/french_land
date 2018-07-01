@@ -1,0 +1,11 @@
+html {
+    overflow-x: hidden;
+}
+@import "fonts";
+@import "vars";
+@import "libs";
+@import "mixins";
+
+@import "./components/_header.scss";
+@import "./components/_services.scss";
+@import "./components/_masters.scss";
